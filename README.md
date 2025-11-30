@@ -10,9 +10,6 @@
 
 ## 🛠️ 개발 환경 및 기술 스택 (Tech Stack)
 
-### Environment
-<img src="https://img.shields.io/badge/Windows 11-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Java 17-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-
 ### Tech
 * **Language**: Java SE (JDK 17)
 * **Core Concepts**:
@@ -52,14 +49,12 @@
     * 예약 취소/변경 요청 처리
 
 ## 👨‍💻 팀원 및 담당 파트
-**(본인의 이름과 역할을 강조해서 수정해주세요)**
 
 | 이름 | 역할 | 담당 업무 |
-| :---: | :---: | :--- |
-| **홍선민** | **Team Leader** | 총괄, 프로젝트 순서도 설계, 호텔 검색 및 예약 신청 로직 구현 |
-| **김서진** | Team Member | 화면 설계(UI), 리뷰 상세 보기/작성, 방문 기록 조회 기능 구현 |
+| 홍선민 | **Team Leader** | 총괄, 프로젝트 순서도 설계, 호텔 검색 및 예약 신청 로직 구현 |
+| 김서진 | Team Member | 화면 설계(UI), 리뷰 상세 보기/작성, 방문 기록 조회 기능 구현 |
 | **김정섭** | Team Member | 더미데이터 생성, 예약 승인/관리 로직, 호텔 관리(등록/수정) 기능 구현 |
-| **전재만** | Team Member | 더미데이터 생성, 로그인/회원가입(Auth), 회원 정보 수정 및 예약 확인 기능 |
+| 전재만 | Team Member | 더미데이터 생성, 로그인/회원가입(Auth), 회원 정보 수정 및 예약 확인 기능 |
 
 <br>
 
