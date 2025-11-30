@@ -1,0 +1,45 @@
+UI 클래스 메서드설명
+
+1.  splashTitle()
+	:jfiglet으로 제작한 hotel 스플래시 화면 출력
+	
+	
+2.  singleLine()
+	: 단일 구분선 출력
+	
+	
+3.  doubleLine()
+	: 이중 구분선 출력
+	
+	
+4.  pressEnterUI()
+	: "계속하려면 엔터를 입력하세요." 메세지 출력 후 사용자가 엔터를 입력할 때까지 기다림, 선생님이랑 했던 예제의 pause() 메서드와 동일 기능
+
+
+5.  title(String text)
+	: 입력한 내용을 이중구분선으로 감싼 제목 출력
+	[사용법]
+	UI.title("마이페이지");
+	
+	[출력결과]
+	==========================
+	마이페이지
+	==========================
+
+
+6.  menuDetail(String menu1)
+	menuDetail(String menu1, String menu2)
+	menuDetail(String menu1, String menu2, String menu3)
+	menuDetail(String menu1, String menu2, String menu3, String menu4)
+	menuDetail(String menu1, String menu2, String menu3, String menu4, String menu5)
+	
+	[사용법]
+	UI.menuDetail("호텔 검색", "마이페이지");
+	*넣을 수 있는 문자열 최대 5개까지 오버로딩되어있음
+	
+	[출력결과]
+	1.호텔검색
+	2.마이페이지
+	--------------------------
+	메뉴 선택: 
+	
